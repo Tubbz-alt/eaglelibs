@@ -7,7 +7,8 @@ It include,
   TI-CC2650MODA(Bluetooth, low energy Wireless MCU Module)(http://www.ti.com/product/CC2650MODA )
   TI-LP5907(Regulator)(http://www.ti.com/product/LP5907)
   LIR2450 3.6V Battery (https://www.digikey.com/product-detail/en/sparkfun-electronics/PRT-10319/PRT-10319-ND/5271300)
-  Also datasheets.
+  Datasheets of the components. 
+  
   
 
   
