@@ -1,6 +1,6 @@
 # eaglelibs
 Electronic Component  Libraries on EAGLE
-It is some Eagle libraries that I used on my project and some circuits. 
+It is some Eagle libraries and circuits that I used on my project.
 
 It include,
   TI-HDC1080(Humidity Sensor with temperature sensor)(http://www.ti.com/product/HDC1080)
